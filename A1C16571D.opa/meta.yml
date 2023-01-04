@@ -1,0 +1,19 @@
+id: A1C16571D
+title: Prayer for the Long Life of Soktsé Rinpoche
+type: translation
+pechas:
+- I9E516BBB
+- I44A242DA
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:30:56.382228
+  last_modified_at: 2023-01-04 11:30:56.382241
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9E516BBB/5A64: 2E13
+  I44A242DA/1941: 2E13

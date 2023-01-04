@@ -1,0 +1,27 @@
+segment_sources:
+  I9E516BBB:
+    type: origin_type
+    relation: translation
+    base: 5A64
+    lang: en
+  I44A242DA:
+    type: origin_type
+    relation: translation
+    base: '1941'
+    lang: bo
+segment_pairs:
+  ae450864abb845e99072c8cdd12d39ef:
+    I9E516BBB: fceea2c2125e457e91b7eb70c58250c5
+    I44A242DA: 450023410bf74451b22efec646f7fbc8
+  724b32225e434736890cfdd862051627:
+    I9E516BBB: e6de59a32f4741de922765e676999f3f
+    I44A242DA: adf78b291d8a4dc5a7a4b041fedbf46c
+  01dfcefffdf240518944a25b341c4bb3:
+    I9E516BBB: 6350aa0ceb974adbbbfb092838bc6aa3
+    I44A242DA: b41979a2baa34263b41d7f1896102a1d
+  08e67499056943f6875417378b816d30:
+    I9E516BBB: 58bd65c61b4c439d9a0efcbd115726e9
+    I44A242DA: a62473d5f28d4ee283e7cbda66bdfee7
+  b8fa03a8439a43fc8c29c4d38a41308e:
+    I9E516BBB: fb78fa31063d4bb08727278bb3b44b27
+    I44A242DA: 031a0520babe46b2b671052506d34e7f
